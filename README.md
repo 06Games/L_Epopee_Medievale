@@ -2,7 +2,7 @@
 Le Jeu Sans Unity !
 # Pour les EXE
 S'ouvre nativement avec windows
-# Pour les 7Z
+# Pour les 7z
 Nécessite [7zip](http://www.7-zip.org/download.html)
 # Pour les APK
 S'ouvre nativement avec android
