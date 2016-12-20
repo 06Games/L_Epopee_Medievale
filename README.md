@@ -1,4 +1,6 @@
 Le Jeu Sans Unity !
+# Telechargement
+[ici](https://github.com/06Games/Jeu/releases)
 # Installation
 ## Pour les EXE
 S'ouvre nativement avec windows
