@@ -8,4 +8,10 @@ Nécessite [7zip](http://www.7-zip.org/download.html)
 Telecharger les deux fichers et ouvrir **001** avec [7zip](http://www.7-zip.org/download.html).
 Il est obligatoire d'avoir les deux fichers
 ## Pour les APK
-S'ouvre nativement avec android
+S'ouvre avec android
+Installation :
+1. Paramettre
+2. Securité
+3. Source Inconnu
+## Pour les APP
+S'ouvre nativement avec MacOs
