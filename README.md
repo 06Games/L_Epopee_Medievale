@@ -2,12 +2,15 @@
 
 Le Jeu Sans Unity !
 # Avec l'app c'est mieux !
-## Sur Windows 10
+## PC
+### Sur Windows 10
 1. [Installeur](https://www.microsoft.com/store/apps/9nblggh4qtfx)
 2. App v1.0.0.1: was-installer://1977458.oayolv-2 (cliquer droit sur le lien puis collé dans le navigateur)
 
-## Sur Windows 8
--------- Bientôt--------
+### Sur Windows 8.1
+
+## Mobile
+### Sur Windows Phone 8.1
 
 # Telechargement
 [ici](https://github.com/06Games/Jeu/releases)
