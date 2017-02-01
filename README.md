@@ -1,7 +1,7 @@
 
 Le Jeu Sans Unity !
 # Avec l'app c'est mieux !
-[app](https://06games.github.io/App.html)
+[Voir Ici](https://06games.github.io/App.html)
 
 # Telechargement
 [ici](https://github.com/06Games/Jeu/releases)
