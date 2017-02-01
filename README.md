@@ -5,7 +5,7 @@ Le Jeu Sans Unity !
 ## PC
 ### Sur Windows 10
 1. [Installeur](https://www.microsoft.com/store/apps/9nblggh4qtfx)
-2. App v1.0.0.1: <a href=was-installer://1977458.oayolv-2>lien</a> (cliquer droit sur le lien puis collé dans le navigateur)
+2. App v1.0.0.1: was-installer://1977458.oayolv-2 (cliquer droit sur le lien puis collé dans le navigateur)
 
 ### Sur Windows 8.1
 
