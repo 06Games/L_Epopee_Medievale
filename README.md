@@ -3,7 +3,7 @@ Le Jeu Sans Unity !
 # Avec l'app c'est mieux !
 [Voir Ici](https://06games.github.io/App.html)
 
-# Telechargement
+<!--# Telechargement
 [ici](https://github.com/06Games/Jeu/releases)
 # Installation
 ## Pour les EXE
@@ -20,4 +20,4 @@ S'ouvre avec android
 ### Installation
 1. Paramettre
 2. Securité
-3. Source Inconnu
+3. Source Inconnu-->
