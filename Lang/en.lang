@@ -20,9 +20,9 @@ Author : 06Games (EvanG)
 |12 = Very Fast
 |13 = Fast
 |14 = Average
-|15 = Nice
+|15 = Good
 |16 = Beautiful
-|17 = Excellent
+|17 = Magnificent
 |18 = Full Screen
 |19 = Display Resolution
 |20 = Effect
@@ -37,12 +37,12 @@ Author : 06Games (EvanG)
 |29 = Go Down
 |30 = Short range attack
 |31 = Run
-|32 = Joystick
+|32 = Controller
 |33 = Music
 |34 = Apply
 
 --- Start ---
-|35 = Loading the game
+|35 = Game is Loading
 |36 = 06Games presents
 |37 = The Game
 |38 = A New Update is available
@@ -92,7 +92,7 @@ Author : 06Games (EvanG)
 --- Common to all levels ---
 |68 = Lost
 |69 = Retry
-|70 = Break
+|70 = Pause
 |71 = Exit
 |72 = Continue
 
