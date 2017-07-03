@@ -1,0 +1,107 @@
+Auteur : 06Games (EvanG)
+
+
+--- Accueil ---
+|1 = Nom Du Jeu
+|2 = Solo
+|3 = Multi-Joueurs
+|4 = Quitter
+
+--- ChangLog ---
+|5 = Changement
+|6 = Cliquer-droit pour sortir
+|7 = A Venir
+
+--- Option ---
+|8 = Graphisme
+|9 = Contrôle
+|10 = Son
+|11 = Langue
+|12 = Très Rapide
+|13 = Rapide
+|14 = Moyen
+|15 = Bien
+|16 = Beau
+|17 = Magnifique
+|18 = Plein Ecran
+|19 = Resolution
+|20 = Effet
+|21 = Souris
+|22 = Sensibilité
+|23 = Clavier
+|24 = Avancer
+|25 = Reculer
+|26 = Gauche
+|27 = Droite
+|28 = Sauter
+|29 = Se Baisser
+|30 = Attaque de Courte Portée
+|31 = Courir
+|32 = Manette
+|33 = Musique
+|34 = Appliquer
+
+--- Start ---
+|35 = Chargement du jeu
+|36 = 06Games presente
+|37 = Le Jeu
+|38 = Une Nouvelle Mise à Jour est disponible
+|39 = Mettre à jour
+
+--- ProductKey ---
+|40 = Clé d'Activation :
+|41 = Je n'ai pas de clé
+|42 = Non Merci
+
+--- Chat ---
+|43 = Chaines
+|44 = Amis
+|45 = Chat
+|46 = Entrez votre message...
+|47 = Envoyer
+|48 = Hors Ligne
+|49 = En Ligne
+|50 = Ne Pas Déranger
+|51 = Vider
+|52 = Message Privé
+
+--- Chargement Multi ---
+|53 = Connection Au Serveur Principal
+|54 = Authentification
+|55 = Connection Au Serveur Maitre
+|56 = Authentification
+|57 = Authentifier
+|58 = Groupe Rejoint
+|59 = Connection Au Serveur De Jeu
+|60 = Connecter Au Serveur De Jeu
+|61 = Authentification
+|62 = Connection
+
+--- Niveau 1 ---
+|63.1 = Sauter peut etre tres efficace ! Appuis sur
+|63.2 = pour sauter !
+|64.1 = Baisse-toi en apuiyant sur
+|64.2 = !
+|65.1 = Donne lui un coup de poing avec
+|65.2 = !
+|66.1 = Echappe-toi de cette célule !
+|66.2 = 
+|67.1 = Attention au gardien !
+|67.2 = S'il t'attrape la partie est fini !
+
+--- Commun à tous les niveaux ---
+|68 = Perdu
+|69 = Réessayer
+|70 = Pause
+|71 = Quitter
+|72 = Continuer
+
+--- FirstConfig ---
+|73 = Choisissez votre langue
+|74 = Nom d'utilisateur
+|75 = J'ai fini
+
+--- Nom des Niv ---
+|76 = Prémices d'une aventure
+|77 = L'évasion
+|78 = A la recherche d'un camp

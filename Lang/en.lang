@@ -1,0 +1,107 @@
+Author : 06Games (EvanG)
+
+
+--- Home ---
+|1 = Game's Name
+|2 = Solo
+|3 = Multiplayer
+|4 = Exit
+
+--- ChangLog ---
+|5 = ChangLog
+|6 = Right-click to exit
+|7 = Coming Soon
+
+--- Option ---
+|8 = Graphics
+|9 = Control
+|10 = Sound
+|11 = Language
+|12 = Very Fast
+|13 = Fast
+|14 = Average
+|15 = Nice
+|16 = Beautiful
+|17 = Excellent
+|18 = Full Screen
+|19 = Display Resolution
+|20 = Effect
+|21 = Mouse
+|22 = Sensitivity
+|23 = Keyboard
+|24 = Forward
+|25 = Backward
+|26 = Left
+|27 = Right
+|28 = Jump
+|29 = Go Down
+|30 = Short range attack
+|31 = Run
+|32 = Joystick
+|33 = Music
+|34 = Apply
+
+--- Start ---
+|35 = Loading the game
+|36 = 06Games presents
+|37 = The Game
+|38 = A New Update is available
+|39 = Update
+
+--- ProductKey ---
+|40 = Activation Key:
+|41 = I do not have a key
+|42 = No Thanks
+
+--- Chat ---
+|43 = Channels
+|44 = Friends
+|45 = Chat
+|46 = Enter your message ...
+|47 = Send
+|48 = Offline
+|49 = Online
+|50 = Do Not Disturb
+|51 = Clear
+|52 = Private Message
+
+--- Loading Multi ---
+|53 = Connecting To Name Server
+|54 = Authenticating
+|55 = Connecting To Master server
+|56 = Authenticating
+|57 = Authenticated
+|58 = Joined Lobby
+|59 = Connecting To Game server
+|60 = Connected To Game server
+|61 = Authenticating
+|62 = Joining
+
+--- Niveau 1 ---
+|63.1 = Jump can be very useful ! Use
+|63.2 = for Jump !
+|64.1 = Get Down with
+|64.2 = !
+|65.1 = Give him a punch with
+|65.2 = !
+|66.1 = Escape from this capsule!
+|66.2 =
+|67.1 = Watch out for the guard!
+|67.2 = If he catches you the game is over!
+
+--- Common to all levels ---
+|68 = Lost
+|69 = Retry
+|70 = Break
+|71 = Exit
+|72 = Continue
+
+--- FirstConfig ---
+|73 = Choose your language
+|74 = Username
+|75 = I finished
+
+--- Name of Level ---
+|76 = First steps of an adventure
+|77 = The Escape
+|78 = Looking for a camp
