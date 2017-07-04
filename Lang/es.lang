@@ -1,0 +1,107 @@
+Autor: 06Games (EvanG)
+
+
+--- Casa ---
+|1 = Nombre del juego
+|2 = Un jugador
+|3 = Multijugador
+|4 = Salir
+
+--- ChangLog ---
+|5 = Registro de cambios
+|6 = Haga clic con el botón derecho para salir
+|7 = Próximamente
+
+--- Opción ---
+|8 = Gráficos
+|9 = Control
+|10 = Sonido
+|11 = Idioma
+|12 = Muy Rápido
+|13 = Rápido
+|14 = Promedio
+|15 = Bueno
+|16 = Hermoso
+|17 = Magnífico
+|18 = Pantalla completa
+|19 = Resolución de la pantalla
+|20 = Efecto
+|21 = Ratón
+|22 = Sensibilidad
+|23 = Teclado
+|24 = Adelante
+|25 = Retroceder
+|26 = Izquierda
+|27 = Derecha
+|28 = Saltar
+|29 = Ir hacia abajo
+|30 = ataque de corto alcance
+|31 = Ejecutar
+|32 = Controlador
+|33 = Música
+|34 = Aplicar
+
+--- Comienzo ---
+|35 = El juego está cargando
+|36 = 06Juegos presenta
+|37 = El Juego
+|38 = Una nueva actualización está disponible
+|39 = Actualizar
+
+--- ProductKey ---
+|40 = Tecla de activación:
+|41 = No tengo una llave
+|42 = No, gracias
+
+--- Chat ---
+|43 = Canales
+|44 = Amigos
+|45 = Chat
+|46 = Ingrese su mensaje ...
+|47 = Enviar
+|48 = Desconectado
+|49 = En línea
+|50 = No molestar
+|51 = Despejado
+|52 = Mensaje privado
+
+--- Cargando Multi ---
+|53 = Conexión al servidor de nombres
+|54 = Autenticación
+|55 = Conexión al servidor maestro
+|56 = Autenticación
+|57 = Autenticado
+|58 = Vestíbulo unido
+|59 = Conexión al servidor de juegos
+|60 = Conectado al servidor de juegos
+|61 = Autenticación
+|62 = Unirse
+
+--- Nivel 1 ---
+|63.1 = ¡El salto puede ser muy útil! Utilizar
+|63.2 = para Jump!
+|64.1 = Abajo con
+|64.2 = !
+|65.1 = Dale un golpe con
+|65.2 =!
+|66.1 = ¡Escapa de esta cápsula!
+|66,2 =
+|67.1 = Cuidado con el guardia!
+|67.2 = ¡Si te atrapa, el juego ha terminado!
+
+--- Común a todos los niveles ---
+|68 = Perdidos
+|69 = Reintentar
+|70 = Pausa
+|71 = Salir
+|72 = Continuar
+
+--- FirstConfig ---
+|73 = Elija su idioma
+|74 = Nombre de usuario
+|75 = Terminé
+
+--- Nombre del Nivel ---
+|76 = Primeros pasos de una aventura
+|77 = El Escape
+|78 = Buscando un campamento
