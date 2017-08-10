@@ -17,3 +17,6 @@ C'est pas ici, mais [ici](https://06games.store.aptoide.com/app/market/com.unity
 1. Paramettre
 2. Securité
 3. Source Inconnu
+
+<HR>
+<i>06Games All Right Reserved</i>
