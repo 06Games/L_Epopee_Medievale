@@ -2,7 +2,7 @@ Auteur : 06Games (EvanG)
 
 
 --- Accueil ---
-|1 = L'Épopée Mediévale
+|1 = L'Épopée Médiévale
 |2 = Solo
 |3 = Multi-Joueurs
 |4 = Quitter
@@ -40,8 +40,8 @@ Auteur : 06Games (EvanG)
 |32 = Manette
 |33 = Musique
 |34 = Appliquer
-|79 = Dignostique
-|80 = Menu
+|79 = Dignostiques
+|80 = Menu Pause
 
 --- Start ---
 |35 = Chargement du jeu
@@ -107,3 +107,4 @@ Auteur : 06Games (EvanG)
 |76 = Prémices d'une aventure
 |77 = L'évasion
 |78 = A la recherche d'un camp
+
