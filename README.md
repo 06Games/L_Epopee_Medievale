@@ -4,8 +4,8 @@ Le Jeu Sans Unity !
 [Voir Ici](https://06games.github.io/App.html)
 
 # Telechargement
-:file_folder: [Releases](https://github.com/06Games/Jeu/releases) :file_folder: <P>
-:date: [Latest](https://github.com/06Games/Jeu/releases/latest) :date:
+:file_folder: [Historique](https://github.com/06Games/Jeu/releases) :file_folder: <P>
+:date: [Version Courante](https://github.com/06Games/Jeu/releases/latest) :date:
 # Installation
 ## Pour Windows
 Telecharger le fichier .exe
