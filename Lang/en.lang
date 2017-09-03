@@ -40,11 +40,13 @@ Author : 06Games (EvanG)
 |32 = Controller
 |33 = Music
 |34 = Apply
+|79 = Diagnostics
+|80 = Pause Menu
 
 --- Start ---
 |35 = Game is Loading
 |36 = 06Games presents
-|37 = The Game
+|37 = The Medieval Epic
 |38 = A New Update is available
 |39 = Update
 
