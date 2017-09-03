@@ -8,7 +8,7 @@ Le Jeu Sans Unity !
 [Latest](https://github.com/06Games/Jeu/releases/latest)
 # Installation
 ## Pour Windows
-Telecharger tout les fichiers .00x (001, 002, 003, ...) et ouvrir **001** avec [7zip](http://www.7-zip.org/download.html).
+Telecharger le fichier .exe
 ## Pour MacOs
 Telecharger le fichier .app
 ## Pour Android
