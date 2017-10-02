@@ -1,5 +1,6 @@
+[![Github Release Download](https://img.shields.io/github/downloads/06Games/L_Epopee_Medievale/total.svg?label=Téléchargements&style=flat-square&colorB=f0a300)](https://github.com/06Games/L_Epopee_Medievale/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/06Games/L_Epopee_Medievale.svg?label=DernièreVersion&style=flat-square&colorB=1183C6)]()
 
-Le Jeu Sans Unity !
 # Avec l'app c'est mieux !
 [Voir Ici](https://06games.github.io/App.html)
 
