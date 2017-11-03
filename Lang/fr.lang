@@ -50,11 +50,17 @@ Auteur : 06Games (EvanG)
 |37 = L'Epopee Medievale
 |38 = Une Nouvelle Mise à Jour est disponible
 |39 = Mettre à jour
+|82.1 = Un Fichier est Manquant
+|82.2 = Connectez-vous à votre compte 06Games ou inscrivez-vous\navec le 06Games Launcher puis relancez le jeu
+|83.1 = Vous ne possédez pas le jeu !
+|83.2 = Acheter le jeu avec le 06Games Launcher puis relancez le jeu
+|84.1 = Votre identifiant et/ou votre mot de passe semble éroné !
+|84.2 = Connectez-vous avec le 06Games Launcher puis relancez le jeu\nSi le problème persiste vérifier vos indentifiants
 
---- ProductKey ---
-|40 = Clé d'Activation :
-|41 = Je n'ai pas de clé
-|42 = Non Merci
+--- Non Attribuer ---
+|40 = 
+|41 = 
+|42 = 
 
 --- Chat ---
 |43 = Chaines
