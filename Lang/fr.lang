@@ -58,9 +58,10 @@ Auteur : 06Games (EvanG)
 |83.2 = Acheter le jeu avec le 06Games Launcher puis relancez le jeu
 |84.1 = Votre identifiant et/ou votre mot de passe semble éroné !
 |84.2 = Connectez-vous avec le 06Games Launcher puis relancez le jeu\nSi le problème persiste vérifier vos indentifiants
+|40.1 = Pas de Connection à Internet
+|40.2 = Verifiez votre connection internet puis relancez le jeu\nUn connection internet est requise au premier démarrage
 
 --- Non Attribuer ---
-|41 = 
 |42 = 
 
 --- Chat ---
