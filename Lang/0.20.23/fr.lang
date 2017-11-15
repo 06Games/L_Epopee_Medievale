@@ -1,0 +1,119 @@
+Auteur : 06Games (EvanG)
+
+
+--- Accueil ---
+|1 = L'Épopée Médiévale
+|2 = Solo
+|3 = Multi-Joueurs
+|4 = Quitter
+
+--- ChangLog ---
+|5 = Changement
+|6 = Cliquer-droit pour sortir
+|7 = A Venir
+
+--- Option ---
+|8 = Graphisme
+|9 = Contrôle
+|10 = Son
+|11 = Langue
+|12 = Très Rapide
+|13 = Rapide
+|14 = Moyen
+|15 = Bien
+|16 = Beau
+|17 = Magnifique
+|18 = Plein Ecran
+|19 = Resolution
+|20 = Effet
+|21 = Souris
+|22 = Sensibilité
+|23 = Clavier
+|24 = Avancer
+|25 = Reculer
+|26 = Gauche
+|27 = Droite
+|28 = Sauter
+|29 = Se Baisser
+|30 = Attaque de Courte Portée
+|31 = Courir
+|32 = Manette
+|33 = Musique
+|34 = Appliquer
+|79 = Diagnostiques
+|80 = Menu Pause
+|81 = Plein Ecran
+|40.1 = Il y a [0] écran connecté
+|40.2 = Il y a [0] écrans connectés
+
+--- Start ---
+|35 = Chargement du jeu
+|36 = 06Games presente
+|37 = L'Epopee Medievale
+|38 = Une Nouvelle Mise à Jour est disponible
+|39 = Mettre à jour
+|82.1 = Un Fichier est Manquant
+|82.2 = Connectez-vous à votre compte 06Games ou inscrivez-vous\navec le 06Games Launcher puis relancez le jeu
+|83.1 = Vous ne possédez pas le jeu !
+|83.2 = Acheter le jeu avec le 06Games Launcher puis relancez le jeu
+|84.1 = Votre identifiant et/ou votre mot de passe semble éroné !
+|84.2 = Connectez-vous avec le 06Games Launcher puis relancez le jeu\nSi le problème persiste vérifier vos indentifiants
+|41.1 = Pas de Connection à Internet
+|41.2 = Verifiez votre connection internet puis relancez le jeu\nUn connection internet est requise au premier démarrage
+
+--- Non Attribuer ---
+|42 = 
+
+--- Chat ---
+|43 = Chaines
+|44 = Amis
+|45 = Chat
+|46 = Entrez votre message...
+|47 = Envoyer
+|48 = Hors Ligne
+|49 = En Ligne
+|50 = Ne Pas Déranger
+|51 = Vider
+|52 = Message Privé
+
+--- Chargement Multi ---
+|53 = Connection Au Serveur Principal
+|54 = Authentification
+|55 = Connection Au Serveur Maitre
+|56 = Authentification
+|57 = Authentifier
+|58 = Groupe Rejoint
+|59 = Connection Au Serveur De Jeu
+|60 = Connecter Au Serveur De Jeu
+|61 = Authentification
+|62 = Connection
+
+--- Niveau 1 ---
+|63.1 = Sauter peut etre tres efficace ! Appuis sur
+|63.2 = pour sauter !
+|64.1 = Baisse-toi en apuiyant sur
+|64.2 = !
+|65.1 = Donne lui un coup de poing avec
+|65.2 = !
+|66.1 = Echappe-toi de cette célule !
+|66.2 = 
+|67.1 = Attention au gardien !
+|67.2 = S'il t'attrape la partie est fini !
+
+--- Commun à tous les niveaux ---
+|68 = Perdu
+|69 = Réessayer
+|70 = Pause
+|71 = Quitter
+|72 = Continuer
+
+--- FirstConfig ---
+|73 = Choisissez votre langue
+|74 = Nom d'utilisateur
+|75 = J'ai fini
+
+--- Nom des Niv ---
+|76 = Prémices d'une aventure
+|77 = L'évasion
+|78 = A la recherche d'un camp
+
