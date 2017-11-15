@@ -4,13 +4,15 @@
 [Avec l'app c'est mieux !](https://06games.github.io/App.html)
 
 **Sommaire**
-* Version 0.20.23 et supérieur
-* Versions inférieur ou égale à la 0.20.22
-  * Le 06Games Launcher en plus
-  * Sans le 06Games Launcher 
-    * Telechargement
-* Et Android dans tout ça ?
-  * Installation
+* [Version 0.20.23 et supérieur](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#version-02023-et-sup%C3%A9rieur)
+  * [Le 06Games Launcher intégré](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#le-06games-launcher-int%C3%A9gr%C3%A9-construction-prochainement-construction)
+* [Versions inférieur ou égale à la 0.20.22](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#versions-inf%C3%A9rieur-ou-%C3%A9gale-%C3%A0-la-02022)
+  * [Le 06Games Launcher en plus](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#le-06games-launcher-en-plus-construction-prochainement-construction)
+  * [Sans le 06Games Launcher](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#sans-le-06games-launcher)
+    * [Telechargement](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#t%C3%A9l%C3%A9chargement)
+    * [Installation](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#installation)
+* [Et Android dans tout ça ?](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#et-android-dans-tout-%C3%A7a-)
+  * [Installation](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#installation-1)
 
 # Version 0.20.23 et supérieur
 ## Le 06Games Launcher intégré (:construction: Prochainement :construction:)
