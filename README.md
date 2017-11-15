@@ -1,5 +1,5 @@
-[![Github Release Download](https://img.shields.io/github/downloads/06Games/L_Epopee_Medievale/total.svg?label=Téléchargements&style=for-the-badge&colorB=f0a300)](https://github.com/06Games/L_Epopee_Medievale/releases/latest)
-[![GitHub release](https://img.shields.io/github/release/06Games/L_Epopee_Medievale.svg?label=Dernière%20Version&style=for-the-badge&colorB=1183C6)]()
+[![Github Release Download](https://img.shields.io/github/downloads/06Games/L_Epopee_Medievale/total.svg?label=Téléchargements&style=for-the-badge&colorB=f0a300)](https://github.com/06Games/L_Epopee_Medievale/releases/)
+[![GitHub release](https://img.shields.io/github/release/06Games/L_Epopee_Medievale.svg?label=Dernière%20Version&style=for-the-badge&colorB=1183C6)](https://github.com/06Games/L_Epopee_Medievale/releases/latest) <br/>
 [![Github Release Download](https://img.shields.io/badge/06Games%20App,%20L'actualité%2006Games-v1.0.3.0-yellow.svg?style=for-the-badge)](https://06games.github.io/wiki/Public/App)
 
 **Sommaire**
