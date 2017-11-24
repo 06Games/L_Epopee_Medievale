@@ -10,7 +10,6 @@ Auteur : 06Games (EvanG)
 --- ChangLog ---
 |5 = Changement
 |6 = Cliquer-droit pour sortir
-|7 = A Venir
 
 --- Option ---
 |8 = Graphisme
@@ -60,6 +59,8 @@ Auteur : 06Games (EvanG)
 |84.2 = Connectez-vous avec le 06Games Launcher puis relancez le jeu\nSi le problème persiste vérifier vos indentifiants
 |41.1 = Pas de Connection à Internet
 |41.2 = Verifiez votre connection internet puis relancez le jeu\nUn connection internet est requise au premier démarrage
+|7.1 = Le Répertoire du jeu est incorect
+|7.2 = Supprimer le répertoire puis réinstaller le jeu,\nsi vous continue le jeu risque de rencontrer quelque disfonctionnement
 
 --- Non Attribuer ---
 |42 = 
