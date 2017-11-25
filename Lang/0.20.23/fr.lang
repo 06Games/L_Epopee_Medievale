@@ -44,6 +44,8 @@ Auteur : 06Games (EvanG)
 |81 = Plein Ecran
 |40.1 = Il y a [0] écran connecté
 |40.2 = Il y a [0] écrans connectés
+|42.1 = Nombre d'Ecran
+|42.2 = Changer ce parametre implique un redémarrage du jeu
 
 --- Start ---
 |35 = Chargement du jeu
@@ -63,7 +65,7 @@ Auteur : 06Games (EvanG)
 |7.2 = Supprimer le répertoire puis réinstaller le jeu,\nsi vous continue le jeu risque de rencontrer quelque disfonctionnement
 
 --- Non Attribuer ---
-|42 = 
+
 
 --- Chat ---
 |43 = Chaines
