@@ -10,7 +10,6 @@ Author : 06Games (EvanG)
 --- Changement Log ---
 |5 = ChangLog
 |6 = Right-click to exit
-|7 = Coming Soon
 
 --- Option ---
 |8 = Graphics
@@ -42,6 +41,11 @@ Author : 06Games (EvanG)
 |34 = Apply
 |79 = Diagnostics
 |80 = Pause Menu
+|81 = Full screen
+|40.1 = There is [0] connected screen
+|40.2 = There are [0] connected screens
+|42.1 = Number of screens
+|42.2 = Changing this parameter implies a restart of the game
 
 --- Start ---
 |35 = Game is Loading
@@ -49,11 +53,14 @@ Author : 06Games (EvanG)
 |37 = The Medieval Epic
 |38 = A New Update is available
 |39 = Update
-
---- ProductKey ---
-|40 = Activation Key:
-|41 = I do not have a key
-|42 = No Thanks
+|82.1 = A File is Missing
+|82.2 = Sign in to your 06Games account or sign up\nwith the 06Games Launcher then restart the game
+|83.1 = You don't own the game!
+|83.2 = Buy the game with the 06Games Launcher and restart the game.
+|84.1 = Your username and/or password seems erroned!
+|84.2 = Connect with the 06Games Launcher and restart the game\nIf the problem persists check your identifiers
+|41.1 = No Internet Connection
+|41.2 = Check your internet connection and restart the game\nAn internet connection is required at first start
 
 --- Chat ---
 |43 = Channels
