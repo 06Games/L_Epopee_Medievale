@@ -19,7 +19,7 @@ Il sortira prochainement et il vous permettra de gérer le jeu et votre compte 0
 Plus besoin de clé de licence, elle est lié à votre compte !
 
 # Versions inférieur ou égale à la 0.20.22
-## Le 06Games Launcher en plus (:construction: Prochainement :construction:)
+## Le 06Games Launcher en plus
 Installation et Téléchargement facile avec un seul logiciel !
 Gestion de toute les versions de tout les jeux 06Games
 ## Sans le 06Games Launcher 
