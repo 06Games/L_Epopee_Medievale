@@ -3,7 +3,7 @@
 [![Github Release Download](https://img.shields.io/badge/06Games%20App,%20L'actualité%2006Games-v1.0.3.0-yellow.svg?style=for-the-badge)](https://06games.github.io/wiki/Public/App)
 
 **Sommaire**
-* [Version 0.20.23 et supérieur](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#version-02023-et-sup%C3%A9rieur)
+* [Version 0.21 et supérieur](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#version-021-et-sup%C3%A9rieur)
   * [Le 06Games Launcher intégré](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#le-06games-launcher-int%C3%A9gr%C3%A9-construction-prochainement-construction)
 * [Versions inférieur ou égale à la 0.20.22](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#versions-inf%C3%A9rieur-ou-%C3%A9gale-%C3%A0-la-02022)
   * [Le 06Games Launcher en plus](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#le-06games-launcher-en-plus-construction-prochainement-construction)
@@ -13,7 +13,7 @@
 * [Et Android dans tout ça ?](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#et-android-dans-tout-%C3%A7a-)
   * [Installation](https://github.com/06Games/L_Epopee_Medievale/blob/master/README.md#installation-1)
 
-# Version 0.20.23 et supérieur
+# Version 0.21 et supérieur
 ## Le 06Games Launcher intégré (:construction: Prochainement :construction:)
 Il sortira prochainement et il vous permettra de gérer le jeu et votre compte 06Games comme vous le voulait !
 Plus besoin de clé de licence, elle est lié à votre compte !
